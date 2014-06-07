@@ -8,7 +8,8 @@ Step 1 - You should have WAMP/MAMP/LAMP running in your machine.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 Step 2 - You should have the necessary files to run the app. You can find it here: https://github.com/renaborges/my_portable_files
-         After you download the files locate them in your 'wamp/www' working directory.
+         After you download the files locate them in your 'wamp/www' working directory. The structure should be:
+         wamp/www/my_portable_files/v3_reny/v3.php
 ----------------------------------------------------------------------------------------------------------------------------------
 Step 3 - You should create default values to your MySQL such as:
 
