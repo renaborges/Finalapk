@@ -20,7 +20,7 @@ Table name: tinywebdb
 Attributes: ID (auto increment); temperature; bloodps; pain; pulse
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Step 4 - Make sure you MySQL identification are as follow - Default String:
+Step 4 - Make sure your MySQL identification are as follow - Default String:
 
 Username: root
 Password: ""
